@@ -25,7 +25,3 @@ A command-line School Management System built using Python.
 
 ```bash
 python main.py
-
-
-Author
-Sachin Sanap
